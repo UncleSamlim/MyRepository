@@ -1,0 +1,33 @@
+.back{border-top: 2px solid #FF0036;
+	width: 100%;
+	background-color: #000000;
+}
+.cnt{
+	height: 260px;
+}
+.cnt p{
+	margin-bottom: 12px;
+	margin-top: 6px;
+}
+.cnt p a{
+	font-size: 12px;
+	text-decoration: none;
+	color: white;
+}
+.cnt p a:hover{
+	text-decoration: underline;
+}
+.cnt p i{
+	font-size: 12px;
+	text-decoration: none;
+	color: white;
+	font-style: normal;
+}
+.footer span ,.footer a{
+	color: #a4a4a4;
+	text-decoration: none;
+	font-size: 12px;
+}
+.footer a:hover{
+	text-decoration: underline;
+}

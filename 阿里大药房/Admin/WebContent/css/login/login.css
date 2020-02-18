@@ -1,0 +1,151 @@
+.header img{
+	width: 190px;
+}
+.header{
+	width: 1190px;
+	margin: 0 auto;
+	padding: 29px 0;
+}
+.wow{
+	background-color: rgb(188, 227, 235);
+	width: 100%;
+	
+}
+.wow .inner{
+	background: url(../../img/login/adv.jpg) no-repeat;
+	height: 600px;
+	width: 1190px;
+	margin: 0 auto;
+}
+.login{
+	float: right;
+	height: 405px;
+	width: 350px;
+	background-color: white;
+	margin-top: 93px;
+	margin-right: 70px;
+}
+.login .hd{
+	position: relative;
+}
+.login .bd{
+	margin: 45px 28px;
+	margin-bottom: 20px;
+}
+.login .bd input{
+	width: 248px;
+	height: 40px;
+	border: 1px solid #cbcbcb;
+	padding: 0;
+	padding-left: 50px;
+}
+.login .bd .username,.login .bd .pwd{
+	margin-bottom: 25px;
+	position: relative;
+}
+.login .bd .user_icon{
+	position: absolute;
+	top: 1px;
+	left: 1px;
+}
+.login .bd .pwd_icon{
+	position: absolute;
+	top: 1px;
+	left: 1px;
+}
+.login .bd .bnt{
+	position: absolute;
+	top: 12px;
+	right: 3px;
+	cursor: pointer;
+}
+
+.login .bd .submit{
+	width: 298px;
+	height: 43px;
+	border:  0;
+	border-radius: 3px;
+	background-color: #ff0036;
+	padding: 0;
+	font-size: 16px;
+	color: white;
+	font-weight: bold;
+}
+.login .bd .submit:hover{
+	cursor: pointer;
+	background: rgba(255,0,54,0.8);
+}
+.login .bd p{
+	font-weight: bold;
+	color: #3c3c3c;
+}
+.login .hd .login_switch{
+	margin-top: 10px;
+	margin-right: 5px;
+	float: right;
+	cursor: pointer;
+}
+.login .hd .login_tip{
+	position: absolute;
+	right: 58px;
+	top: 10px;
+}
+.login .fd{
+	float: right;
+	margin-right: 25px;
+}
+.login .fd a{
+	text-decoration: none;
+	color: #6c6c6c;
+	font-size: 12px;
+	margin-left: 10px;
+}
+.login .fd a:hover{
+	text-decoration: none;
+	color: #ff0036;
+	font-size: 12px;
+}
+.inner .adv_link {
+	float: left;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.inner .adv_link a{
+	display: block;
+	width: 600px;
+	height: 500px;
+}
+.footer{
+	height: 195px;
+	padding-top: 40px;
+}
+.footer p{
+	margin-bottom: 12px;
+	margin-top: 6px;
+}
+.footer p:nth-child(2){
+	margin-bottom: 6px;
+}
+.footer p a{
+	font-size: 12px;
+	text-decoration: none;
+	color: #000000;
+}
+.footer p:nth-child(2) a{
+	margin-right: 10px;
+}
+.footer p a:hover{
+	text-decoration: underline;
+}
+.footer .fb span{
+	font-size: 12px;
+	color: #666666;
+}
+.footer .fb a{
+	font-size: 12px;
+	color: #999999;
+	text-decoration: none;
+}
+.footer .fb a:hover{
+	text-decoration: underline;
+}
