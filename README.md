@@ -1,2 +1,2 @@
 # MyRepository
-大学期间参与完成项目
+通过GUI加原生JDBC完成的报刊管理系统
